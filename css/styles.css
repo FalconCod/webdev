@@ -13,3 +13,11 @@ hr{
     /* border-style: dotted; */
     /* border-width: 5px; */
 }
+
+h2{
+    color: darkred;
+}
+
+h3{
+    color:violet;
+}
