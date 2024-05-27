@@ -12,6 +12,10 @@ h1{
 
 } */
 
+img:hover{
+    background-color:chartreuse;
+}
+
 /* class selectors */
 
 .krsna{
@@ -20,7 +24,17 @@ h1{
 }
 .balram{
     /* border: radius 4px; */
-    border-radius: 50%;
+    /* border-radius: 50%; */
     height: 100px;
     width: 100px;
 }
+
+.circular{
+    border-radius: 50%;
+}
+
+/* id selectors  */
+#heading{
+    color:red;
+}
+/* id selectors shall override the tag selectors : kinda more valued id's could be you could say for learning purpose */
