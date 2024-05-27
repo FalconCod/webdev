@@ -1,12 +1,26 @@
-h1{
+h1{                                     
     color:blue;
     font-size: 100px;
 }
+/* tag selectors */
 
-img{
+/* img{
     background-color: bisque;
     height: 1000px;
     width: 1000px;
     border-radius: 5%;
 
+} */
+
+/* class selectors */
+
+.krsna{
+    /* background-color: bisque; */
+    border-radius: 50%;
+}
+.balram{
+    /* border: radius 4px; */
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
 }
