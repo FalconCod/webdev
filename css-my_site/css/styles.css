@@ -1,3 +1,51 @@
-body{
+/* body{
     background-color: blue;
+} */
+
+/* div{
+    background-color: #80BCBD;
 }
+.middle-container{
+    background-color: red;
+    margin:20px;
+
+}
+.bottom-container{
+    background-color: #80BCBD;
+    margin:20px;
+} */
+
+body{
+    margin:0;
+}
+
+h1{
+    margin-top:0px;
+}
+
+.top-container{
+    background-color: aqua;
+   
+}
+
+.middle-container{
+    background-color: red;
+    height:200px;
+    width:100px;
+}
+
+.bottom-container{
+    background-color: #80BCBD;
+    height:200px;
+    width:100px;
+}
+
+.Pro{
+
+    text-decoration: underline;
+
+}
+
+/* common inline elements : spans(<span>),images(<img>),anchors(<a>) */
+/* display - block , inline , inline-block, none */
+/* span is an inline element */
